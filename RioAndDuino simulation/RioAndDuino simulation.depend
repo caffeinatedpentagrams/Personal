@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1422585130 source:c:\users\colin mccarson\my coding\c++\rioandduino simulation\main.cpp
+	<iostream>
+	"RioDuino.h"
+	"RoboRio.h"
+
+1422499159 source:c:\users\colin mccarson\my coding\c++\rioandduino simulation\roborio.cpp
+	"RoboRio.h"
+	<iostream>
+
+1422499164 c:\users\colin mccarson\my coding\c++\rioandduino simulation\roborio.h
+
+1422585262 source:c:\users\colin mccarson\my coding\c++\rioandduino simulation\rioduino.cpp
+	"RioDuino.h"
+	<iostream>
+
+1422581142 c:\users\colin mccarson\my coding\c++\rioandduino simulation\rioduino.h
+
